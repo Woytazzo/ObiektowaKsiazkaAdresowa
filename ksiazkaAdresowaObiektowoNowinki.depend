@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1531413968 source:e:\przysz造programista\ksiazkaadresowaobiektowonowinki\main.cpp
+	<iostream>
+	<cstdlib>
+	<fstream>
+	"Uzytkownicy.h"
+
+1521622224 e:\przysz造programista\ksiazkaadresowaobiektowonowinki\uzytkownicy.h
+	<iostream>
+	<cstdlib>
+	<vector>
+	"Uzytkownik.h"
+	"PlikUzytkownicy.h"
+
+1516702682 e:\przysz造programista\ksiazkaadresowaobiektowonowinki\uzytkownik.h
+	<iostream>
+
+1521621604 e:\przysz造programista\ksiazkaadresowaobiektowonowinki\plikuzytkownicy.h
+	<iostream>
+	<cstdlib>
+	<fstream>
+	<sstream>
+	<vector>
+	"Uzytkownik.h"
+	"Plik.h"
+
+1516702688 e:\przysz造programista\ksiazkaadresowaobiektowonowinki\plik.h
+	<iostream>
+	<fstream>
+
+1521016496 source:e:\przysz造programista\ksiazkaadresowaobiektowonowinki\plik.cpp
+	"Plik.h"
+
+1522240644 source:e:\przysz造programista\ksiazkaadresowaobiektowonowinki\uzytkownicy.cpp
+	"Uzytkownicy.h"
+
+1521016444 source:e:\przysz造programista\ksiazkaadresowaobiektowonowinki\uzytkownik.cpp
+	"Uzytkownik.h"
+
+1533754004 source:e:\przysz造programista\ksiazkaadresowaobiektowonowinki\plikuzytkownicy.cpp
+	"PlikUzytkownicy.h"
+	<string>
+	<sstream>
+
